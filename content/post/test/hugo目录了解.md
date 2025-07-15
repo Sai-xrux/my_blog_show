@@ -1,7 +1,7 @@
 ---
 date: "2025-07-14T21:41:07+08:00"
 draft: flase
-title: 'My First Post'
+title: '理解 Hugo 目录结构'
 ---
 
 ### 1. 理解 Hugo 目录结构

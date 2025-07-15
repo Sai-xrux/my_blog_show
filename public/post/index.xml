@@ -8,11 +8,11 @@
         <language>zh-cn</language>
         <copyright>Sai-xrux_Blog Person</copyright>
         <lastBuildDate>Mon, 14 Jul 2025 21:41:07 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>My First Post</title>
-        <link>https://example.com/p/my-first-post/</link>
+        <title>理解 Hugo 目录结构</title>
+        <link>https://example.com/p/%E7%90%86%E8%A7%A3-hugo-%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84/</link>
         <pubDate>Mon, 14 Jul 2025 21:41:07 +0800</pubDate>
         
-        <guid>https://example.com/p/my-first-post/</guid>
+        <guid>https://example.com/p/%E7%90%86%E8%A7%A3-hugo-%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84/</guid>
         <description>&lt;h3 id=&#34;1-理解-hugo-目录结构&#34;&gt;1. 理解 Hugo 目录结构
 &lt;/h3&gt;&lt;p&gt;Hugo 站点的目录结构如下：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
