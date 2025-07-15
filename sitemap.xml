@@ -8,6 +8,9 @@
     <loc>https://example.com/post/</loc>
     <lastmod>2025-07-14T21:41:07+08:00</lastmod>
   </url><url>
+    <loc>https://example.com/p/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E5%BF%85%E4%BF%AE%E8%AF%BE/</loc>
+    <lastmod>2025-07-14T21:41:07+08:00</lastmod>
+  </url><url>
     <loc>https://example.com/p/%E7%90%86%E8%A7%A3-hugo-%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84/</loc>
     <lastmod>2025-07-14T21:41:07+08:00</lastmod>
   </url><url>
@@ -64,8 +67,6 @@
   </url><url>
     <loc>https://example.com/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/p/</loc>
   </url><url>
     <loc>https://example.com/categories/record/</loc>
   </url><url>
